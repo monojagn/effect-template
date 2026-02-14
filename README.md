@@ -16,12 +16,12 @@ BODY: {
   "breed": "Sphynx"
 }
  
-========== HTTP RESPONSE ==========
+ 
 STATUS: 200
 BODY: {
   "id": "801e081e-31a6-4750-bf12-7d5ed80a59ad",
   "name": "Michi",
   "breed": "Sphynx"
 }
-===================================
+ 
 timestamp=2026-02-14T01:33:29.765Z level=INFO fiber=#0 message="API KEY: 99f4a200-a4dd-493b-a8bf-aca8a02b5c06"
